@@ -9,7 +9,7 @@
 #include "DHT.h"
 #include <Servo.h>
 
-// Set these to run example.
+// Set these to run example. //
 #define FIREBASE_HOST "iot-apps-2k18.firebaseio.com" //name firebase database
 #define FIREBASE_AUTH "hVUH40trYhOmooj0JF8yQAp9bHMLAj7fS75H3hO*" //Token
 #define WIFI_SSID "g4" //BSSID
