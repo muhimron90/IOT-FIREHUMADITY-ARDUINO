@@ -11,7 +11,7 @@
 
 // Set these to run example. //
 #define FIREBASE_HOST "iot-apps-2k18.firebaseio.com" //name firebase database
-#define FIREBASE_AUTH "hVUH40trYhOmooj0JF8yQAp9bHMLAj7fS75H3hO*" //Token
+#define FIREBASE_AUTH "hVUH40trYhOmooj0JF8yQAp9bHMLAj7fS75H3h***" //Token
 #define WIFI_SSID "g4" //BSSID
 #define WIFI_PASSWORD "apasih01" //password SSID
 #define DHTPIN 0 //on pin D3  
